@@ -1,0 +1,32 @@
+2020 presidential election candidates:
+    link: https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html
+
+6 types of tweets:
+    1) Links
+    2) Image
+    3) Quotes
+    4) Retweets
+    5) Questions, comments or replies
+    6) Video clips
+
+focus for now:
+    3) Quotes
+    4) Retweets
+    5) Questions, comments or replies
+    extend to:  likes
+
+tools:
+    1) twitter streaming API (get the latest reactions)
+                              allows up to 400 track keywords
+                              5000 follow user ids
+    2) search API (how posts up to the past 7 days)
+
+
+stages:
+    1) extract data
+    2) clean data   
+    3) analyze data 
+
+stage1:
+    a. extract keywords related to 2020 presidential election
+    
